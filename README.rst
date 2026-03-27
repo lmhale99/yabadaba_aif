@@ -5,7 +5,7 @@ yabadaba_aif
 Introduction
 ------------
 
-This provides yabadaba extensions to support Adsorption Information File (AIF) records.
+This provides `yabadaba <https://github.com/usnistgov/yabadaba>`__ extensions to support Adsorption Information File (AIF) records.
 
 Features
 
@@ -18,3 +18,5 @@ Usage
 -----
 
 See the included Jupyter Notebooks for implementation and usage information.
+
+More detailed operation descriptions can be found in the `yabadaba package documentation <https://github.com/usnistgov/yabadaba>`__
